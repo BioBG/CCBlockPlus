@@ -1,4 +1,4 @@
 CCBlockPlus
 ===========
 
-Minecraft Plugin - Chat &amp; Commands Block Plus
+Bukkit Plugin - Chat &amp; Commands Blocking Plus
